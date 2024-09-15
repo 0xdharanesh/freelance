@@ -1,0 +1,3 @@
+[submodule "indusight-IIoT"]
+	path = indusight-IIoT
+	url = git@github.com:0xdharanesh/indusight-IIoT.git
