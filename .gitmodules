@@ -2,3 +2,6 @@
 	path = indusight-IIoT
 	url = git@github.com:0xdharanesh/indusight-IIoT.git
 	update = merge
+[submodule "SmartVac"]
+	path = SmartVac
+	url = git@github.com:0xdharanesh/SmartVac.git
